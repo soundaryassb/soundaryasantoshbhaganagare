@@ -21,6 +21,7 @@ int main(){
             case '+':
                 printf("Enter the first number to be added : \n");
                 scanf("%d",&x);
+                
                 printf("Enter the first number to be added : \n");
                 scanf("%d",&y);
                 int addition = add(x,y);
